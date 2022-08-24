@@ -970,6 +970,7 @@ void wifi_manager( void * pvParameters ){
 		.ssid = 0,
 		.bssid = 0,
 		.channel = 0,
+		.scan_type=0,
 		.show_hidden = true
 	};
 
